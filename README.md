@@ -29,7 +29,7 @@ order_finished.example: {"bar":"bar_val","hoge":"hoge_val","foo":"foo_val"}
 
     To add a prefix to the tag that matched.
 
-* after_order_keys(after_order_keys)
+* after_order_keys(required)
 
     I specify the key of the element of order rearranged. It is necessary to match the number of elements in the order sort before. The format is comma-delimited.
 
