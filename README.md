@@ -1,4 +1,4 @@
-# fluent-plugin-order
+# fluent-plugin-order, a plugin for [Fluentd](http://fluentd.org)
 # Overview
 
 "fluent-plugin-order" is a plugin fluentd.
